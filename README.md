@@ -5,7 +5,7 @@ I’m a software developer based in Ireland 🇮🇪
 
 - 💼 I make serverless things at [fourThoerem](https://www.fourtheorem.com/)
 
-- 🗞 I keep a cool blog 
+- 🗞 I keep a cool [blog](https://paultreanor.com/blog)
 
 - 🍯 I have a dog called Honey
 
