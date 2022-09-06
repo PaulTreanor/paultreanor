@@ -3,7 +3,7 @@ I’m a software developer based in Ireland 🇮🇪
 
 **About me**
 
-- 💼 I make serverless things at [fourThoerem](https://www.fourtheorem.com/)
+- 👨‍💻 I make serverless things at [fourThoerem](https://www.fourtheorem.com/)
 
 - 🗞 I keep a cool [blog](https://paultreanor.com/blog)
 
