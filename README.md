@@ -1,11 +1,11 @@
 # Hi, I’m Paul 
-I’m a software developer based in Ireland 🇮🇪
+I’m an independent software developer based in Ireland 🇮🇪
 
 **About me**
 
-- 👨‍💻 I make serverless things at [fourThoerem](https://www.fourtheorem.com/)
+- 👨‍💻 I make serverless software with AWS, Node, and React. 
 
-- 🗞 I keep a cool [blog](https://paultreanor.com)
+- 🗞 I keep a [digital notebook](https://paultreanor.com)
 
 - 🍯 I have a dog called Honey
 
