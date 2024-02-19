@@ -1,6 +1,5 @@
 # Hi, I’m Paul 
-I’m an independent software developer based in Ireland 🇮🇪
-
+I’m a fullstack dev based in Ireland 🇮🇪
 
 At the moment I'm spending most of my time working on [SpacedAWS](https://www.spacedaws.com). 
 
