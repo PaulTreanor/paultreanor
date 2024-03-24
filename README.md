@@ -1,10 +1,10 @@
 # Hi, I’m Paul 
-I’m a fullstack dev based in Ireland 🇮🇪
+I’m a fullstack dev based in Ireland, currently working for Rapid7. 
 
-At the moment I'm spending most of my time working on [SpacedAWS](https://www.spacedaws.com). 
+Kind of working on [SpacedAWS](https://www.spacedaws.com). 
 
-My interests are in tools for thought, serverless, and frontend development (specifically React). I keep a [blog](https://paultreanor.com) so you can follow me there. 
+My interests are in building personal tools and really anything related to application development. 
 
-Feel free to get in touch.
+You can follow me on my [blog](https://paultreanor.com), fee free to get in touch. 
 
 <img src="./honey.png" alt="honey" width="600"/>
