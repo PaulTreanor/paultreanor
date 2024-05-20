@@ -1,8 +1,8 @@
 # Hi, I’m Paul 
 I’m a fullstack dev based in Ireland, currently working for Rapid7. 
 
-Kind of working on [SpacedAWS](https://www.spacedaws.com). 
+I'm currently creating [MapGuesser](https://mapguesser.com).
 
-My interests are in building personal tools and really anything related to application development. 
+My interests are in building personal tools and web apps. 
 
-You can follow me on my [blog](https://paultreanor.com), fee free to get in touch. 
+You can follow me on my [blog](https://paultreanor.com), feel free to get in touch. 
