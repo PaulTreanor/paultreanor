@@ -3,7 +3,7 @@ I’m a fullstack dev based in Ireland, currently working for Rapid7.
 
 I like making side projects, here are some things that I've built: 
 
-- [🌎 MapGuesser.com](https://www.mapguesser.com/) - A map game I am build for fun 
+- [🌎 MapGuesser.com](https://www.mapguesser.com/) - A map game I am building for fun 
 - [🍄 paultreanor.com](https://paultreanor.com/) - My digital notebook, always a work in progress
 - [📅 Tiny Calendar](https://paultreanor.com/tiny-calendar) - A browser extension for quickly looking up dates in Google Calendar
 - [📒 NotesWorkShop](https://paultreanor.com/notesworkshop) - A rough demo idea for a notes app that you can program like Excel
