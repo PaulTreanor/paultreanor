@@ -3,6 +3,7 @@ I’m a fullstack dev based in Ireland, currently working for Rapid7.
 
 I like making side projects, here are some things that I've built: 
 
+- [📋 urltodo](https://www.urltodo.com/) - Todo list app where the tasks are encoded into the URL 
 - [🌎 MapGuesser.com](https://www.mapguesser.com/) - A map game I am building for fun 
 - [🍄 paultreanor.com](https://paultreanor.com/) - My digital notebook, always a work in progress
 - [📅 Tiny Calendar](https://paultreanor.com/tiny-calendar) - A browser extension for quickly looking up dates in Google Calendar
