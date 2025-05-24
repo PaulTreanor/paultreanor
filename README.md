@@ -3,7 +3,7 @@ I’m a fullstack dev based in Ireland, currently working for Rapid7.
 
 I like making side projects, here are some things that I've built: 
 
-- [📈 Bodyweight Tracker](https://www.bodyweighttracker.com/) - A work in progress
+- [📈 Bodyweight Tracker](https://www.bodyweighttracker.com/) - A simple bodyweight tracker without ads
 - [📋 urltodo](https://www.urltodo.com/) - Todo list app where the tasks are encoded into the URL 
 - [🌎 MapGuesser.com](https://www.mapguesser.com/) - A map game I am building for fun 
 - [🍄 paultreanor.com](https://paultreanor.com/) - My digital notebook, always a work in progress
